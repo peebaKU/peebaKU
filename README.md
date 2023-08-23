@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @peebaKU
 - 👀 I’m interested in software developer and hardware
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG:thailand_dantravel 
 
 <!---
